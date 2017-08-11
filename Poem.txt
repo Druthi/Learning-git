@@ -2,3 +2,7 @@ Coding rainbow is great.
 Adding a new line.
 
 I want to tag this line.
+=======
+New unicorn in town.
+Learning Githun desktop.
+>>>>>>> unicorn
